@@ -29,13 +29,13 @@
 \[5\]
 
 ### c)
-\[\left(\frac{ 1}{ 2}\right)^10\]
+\[\left(\frac{ 1}{ 2}\right)^{10}\]
 
 ### d)
-\[\left(\frac{ 1}{ 2}\right)^10\]
+\[\left(\frac{ 1}{ 2}\right)^{10}\]
 
 ### e)
-\[\frac{ {10 \choose 5}}{ 2^10}\]
+\[\frac{ {10 \choose 5}}{ 2^{10}}\]
 
 ### f) 
-\[10 \choose 3}{ 2^10}\]
+\[\fradc{ {10 \choose 3}}{ 2^{10}}\]
