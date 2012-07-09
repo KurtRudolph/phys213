@@ -36,3 +36,7 @@ Newtons 2nd Law:
 \[\vec F_{ext} = \sum m_i \vec a_{CM} + \frac{ d^2}{ d t^2} (\sum m_i \vec s_i)\]
 
 
+
+\[F_ext \cdot d \vec r_{CM} = M \frac{ d\vec v_{CM}}{ dt} \cdot d \vec r_{CM} = M (d \vec d_{SM}) \cdot \vec v_{CM} = M \frac{ 1}{ 2} (V^2_{CM}) = d KE_{CM}\]
+
+\[\int\limits_{a}^b} \vec F_{ext} \cdot d \vec r_{CM} = \Delta KE_{CM} \rightarrow F_{ext} d_{CM} = \Delta KE_{CM} \]
