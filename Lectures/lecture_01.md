@@ -50,3 +50,12 @@ Newtons 2nd Law:
 
 
 \[W_{ext} = \Delta E_{tot}\] , \[E_{tot} = E_{tot_work} + E_{micro}\]
+
+
+## Collision of two block, stick together upon collision
+\[p_i = m v_i = p_f = 2 m v_f \Rightarrow v_F = \frac{ 1}{ 2} v_i\]
+
+\[W_{on} = 0\], \[E_{tot} = K E_{work} + V\]
+\[0 = \Delta E_{tot} = \Delta K E_{work} + \Delta U\]
+
+\[\Delta K E_{Work} = \frac{ 1}{ 2} = \frac{ 1}{ 2}( 2 m) v_F^2 - \frac{ 1}{ 2} m v_i^2 = m \left( \frac{ v_i}{ 2}\right)^2 - \frac{ 1}{ 2} m v_i^2 = -\frac{ 1}{ 4} m v_i^2\]
