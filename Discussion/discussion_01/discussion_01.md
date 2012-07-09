@@ -1,5 +1,5 @@
-
-
+## Problem 2:w
+\[v_{cm} = \frac{ v_1 m_1 + v_2 m_2}{ (m_1 + m_2)}
 
 
 ## Problem 4
