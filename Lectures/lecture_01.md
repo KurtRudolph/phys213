@@ -13,7 +13,7 @@ by an \[x, y, z\] coordinate system.
 
 \[\vec v_i = \vec v_0 + \frac{ d \vec s_i}{ d t}\]
 
-\[\vec \p_i = m_i \vec v_i = m \cdot \vec v_0 + m_i \frac{ d \vec s_i}{ dt}\]
+\[\vec p_i = m_i \vec v_i = m \cdot \vec v_0 + m_i \frac{ d \vec s_i}{ dt}\]
 
 \[\vec p_{tot} = \sum\limits_{i = 1}^{N} = \sum\limits_i m_i \vec v_0 + \sum\limits_i m_i \frac{ d \vec s_i}{ d t}\]
 
