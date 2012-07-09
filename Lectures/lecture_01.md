@@ -40,3 +40,13 @@ Newtons 2nd Law:
 \[F_ext \cdot d \vec r_{CM} = M \frac{ d\vec v_{CM}}{ dt} \cdot d \vec r_{CM} = M (d \vec d_{SM}) \cdot \vec v_{CM} = M \frac{ 1}{ 2} (V^2_{CM}) = d KE_{CM}\]
 
 \[\int\limits_{a}^b} \vec F_{ext} \cdot d \vec r_{CM} = \Delta KE_{CM} \rightarrow F_{ext} d_{CM} = \Delta KE_{CM} \]
+
+  * Single particle  \[CM\] is the location of the particle.  \[Work = \Delta KE\]
+
+
+\[\vec F_i \cdot d \vec r_i = \vec F_{i, ext} \cdot d \vec r_i + \vec F_{i, init} \cdot d \vec r_i = m_i \vec a_i \cdot d \vec r_i\]
+
+\[W_{ext} + W_{int} = \Delta K E_{CM} + \Delta E_{int}\]
+
+
+\[W_{ext} = \Delta E_{tot}\] , \[E_{tot} = E_{tot_work} + E_{micro}\]
