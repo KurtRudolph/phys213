@@ -25,4 +25,5 @@ What is the temperature of this gas?
 * diatomic gas particles have 5 degrees of freedom
 * The average energy per molecule of Argon, a monotonic molecule,
   is \[3 (( 1/2) k_B T) = (3/2) k_B T\]
-* The average energy per molecule of \[N_2\] is \[5 ((1/2) k_B T) = (5/2)k_B T\]
+* The average energy per molecule of \[N_2\], a diatomic molecule, 
+  is \[5 ((1/2) k_B T) = (5/2)k_B T\].
