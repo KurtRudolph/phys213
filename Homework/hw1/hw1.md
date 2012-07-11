@@ -10,6 +10,8 @@ collection of \[10000\] molecules is \[5 x 10-17 J\].
 
 What is the temperature of this gas?
 
+\[KE_total = \left(\frac{ 3}{ 2}\right) |Ar| k_B T + \frac{ 5}{ 2} |N_2| k_B T\]
+    * \[k_B = 1.381 \times 10^{-23}\]
 * Need to use _Equipartition Theorem_
 * If the number of molecules in the system were doubled,
   the totol kinetic energy would double too.
