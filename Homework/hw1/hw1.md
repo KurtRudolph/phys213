@@ -50,6 +50,8 @@ we define the typical speed to be the root-mean-square velocity
 * Only the transiational kinectic energy determines the RMS velocity of the
   center of mass of the molecules in the gas.
 * Using \[KE = \frac{ 1}{ 2} m v^2\] we can find RMS
+* \[PV = n RT\] 
+  * ideal gas law
 
 
 
