@@ -9,3 +9,5 @@ k_B = 1.381 * 10.**(-23)
 
 t = symbols('t')
 print(solve(3./2. * Ar_quantity* k_B * t + 5./2. * N_2_quantity * k_B * t - KE_total, t))
+
+
