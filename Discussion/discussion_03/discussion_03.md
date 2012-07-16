@@ -18,8 +18,9 @@
 \[W_{on} = \frac{ P_f V_f}{ \gamma - 1} \left( \frac{ 1}{ V_f^{\gamma - 1} } - \frac{ 1}{ V_i^{ \gamma - 1}\right)\]
 
 \[\Delta U = W_{on}\]
+
 \[\Delta U = \alpha n R \Delta T\]
 
 \[H = \frac{ \Delta T}{ R_{th}}\]
 
-\[R_{th} = \frac{ \gamma}{ k A} \]
+\[R_{th} = \frac{ l}{ k A} \]
