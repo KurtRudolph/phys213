@@ -8,8 +8,6 @@ N_A = avogadro_constant = 6.022 * 10.**23 / mol
 k = boltzmann_constant = 1.381 * 10.**(-23) / mol
 R = gas_constant = 8.314 * J / mol * K 
 
-3./5. * k 
-
 kg = 1000
 
 O_2_in_oxygen = .2

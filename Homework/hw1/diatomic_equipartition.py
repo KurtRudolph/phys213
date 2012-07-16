@@ -1,18 +1,33 @@
 from sympy import * 
 
-avogadros_number = 6.0221415 * 10**(23)
-p = 2. * 101325. # pa pressue
-mass_density = 1.7 / 1000. # kg per liter
-attomic_weight = 28. / 1000. # kg per mole
-k = 1.381 * 10**(-23) # I have no idea
-R = 8.3144621 # gas constant
+mol = 1.
+J = Jouls = 1.
 
+K = Kalvin = 1.
+c = celcius = K - 273.
 
-m = attomic_weight/avogadros_number
+L = liter = 1.
 
-n = mass_density/m
+kg = kilogram = 1000.
+g = gram = 1. / kg
 
-T = p/( n * R)
+pa = 1.
+atm = 9.8692 * 10**(-6) * pa
+
+N_A = avogadro_constant = 6.022 * 10.**23 / mol
+k = boltzmann_constant = 1.381 * 10.**(-23) / mol
+R = gas_constant = 8.314 * J / mol * K 
+
+N_2_molar_mass =  28.01344 * g / mol
+
+# Let
+m = N_2_mass_density = 1.7 * g / L
+P = pressure = 2. * atm 
+V = volume = 1. * L
+
+N = amount_of_substance = N_2_mass_density * V / N_2_molar_mass * N_A
+
+T = P * V / (N * k)
 KE = 3./2. * k * T
 
 v = symbols( 'v')
