@@ -24,3 +24,4 @@
 \[H = \frac{ \Delta T}{ R_{th}}\]
 
 \[R_{th} = \frac{ l}{ k A} \]
+

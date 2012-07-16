@@ -1,7 +1,9 @@
 from sympy import *
+from mpmath import *
 N_A = avogadro_constant = 6.022 * 10.**23 
 #R = gas_constant = 8.314 # J * K**(-1) * mol**(-1)
 R = gas_constant = .082057 # L * atm * K**(-1) * mol**(-1)
+
 
 alpha = 5./2.
 gamma = (alpha + 1) / alpha
@@ -23,3 +25,7 @@ T_e = P_e * V_e / (n * R)
 DeltaT = T_e - T_0
 
 DeltaU = alpha * n * R * DeltaT
+
+Q_e = n * R * T_e * log( V_e/V_f)
+
+print( Q_e)
