@@ -13,7 +13,7 @@
 
 \[V T^\gamma = const\]
 
-\[W_{by} = \int P dv = \text{const} \int \frac{ 1}{ V^\alpha} dv}
+\[W_{by} = \int P dv = \text{const} \int \frac{ 1}{ V^\alpha} dv}\]
 
 \[W_{on} = \frac{ P_f V_f}{ \gamma - 1} \left( \frac{ 1}{ V_f^{\gamma - 1} } - \frac{ 1}{ V_i^{ \gamma - 1}\right)\]
 
