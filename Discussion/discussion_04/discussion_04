@@ -17,3 +17,11 @@ may be in _two_ boxes: 3
 \[P( E_i) \prop e^{-E_i/ k T}\]
 
 \[P( E_2) \prop e^{-E_2 / k T}\]
+
+
+## Problem 4
+\[\Omega_q = \frac{ (q + N - 1)!}{ (N - 1)! q!}\]
+
+\[q = \text{quanta}\]
+
+\[N = \text{oscillators}\]
