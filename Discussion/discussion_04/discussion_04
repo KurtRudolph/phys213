@@ -1,0 +1,19 @@
+# Discussion 04
+
+\[S = k ln(\Omega)\]
+
+
+\[\Omega \rightarrow number_of_microstates\]
+
+\[N\] particles distinguishable \[M^N\]
+
+Number of state two _distinguishable_ particles may 
+be in _two_ boxes: 4
+
+Number of states two _indistinguishable_ particles
+may be in _two_ boxes: 3
+
+
+\[P( E_i) \prop e^{-E_i/ k T}\]
+
+\[P( E_2) \prop e^{-E_2 / k T}\]
