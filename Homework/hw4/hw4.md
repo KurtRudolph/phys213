@@ -8,7 +8,7 @@
 
 Where \[m\] is the mass of one molecule, \[g\] is gravity, and \[h\] is the height.
 
-\[P_N / P_0\] = e^{mgh/kT}
+\[P_N / P_0\] = e^{mgh/kT}\]
 
 ## Satellite
 
