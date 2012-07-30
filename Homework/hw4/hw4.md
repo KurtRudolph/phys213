@@ -13,4 +13,7 @@ Where \[m\] is the mass of one molecule, \[g\] is gravity, and \[h\] is the heig
 ## Satellite
 
 ### 2)
-\[J = \sigma_{sb} T^4\] where \[\sigma_{sb} =\]
+\[J = \sigma_{sb} T^4\] where \[\sigma_{sb}\] is the Stefan-Boltzmann constant
+
+\[P = J \times A\]
+\[\sigma_{sb} T^4 A  = P\]
